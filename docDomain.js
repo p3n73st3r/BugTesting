@@ -1,3 +1,3 @@
-//alert as document.domain
+//javascript alert as document.domain
 
 alert(document.domain)
